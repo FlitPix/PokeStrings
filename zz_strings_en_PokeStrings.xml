@@ -6,14 +6,19 @@
 	-->
 	<!-- Shedinja Warning -->
 	<string id="2565">Level {00} - Space in party with a {STRING_245004}\nWarning: Only keeps 3 random IVs</string>
-	<!-- Feinting multiple Pokemon at once -->
-	<string id="200436">{01} at once!</string>
-
-	<!-- Pickup Ability -->
-	<string id="6066">picked up {01}!</string>
-	<!-- Player Found Items -->
-	<string id="6063">Found {00}!</string>
-	<string id="6062">{00} found {01}!</string>
+	<!-- In-battle -->
+	<string id="5021">Wild horde!<!-- Horde encounter --></string>
+	<string id="200211">Ran away!<!-- Running --></string>
+	<string id="200436">{01} at once!<!-- Multi-KO --></string>
+	<string id="6066">Picked up {01}!<!-- Pickup ability --></string>
+	<string id="6063">Found {00}!<!-- Player found item --></string>
+	<string id="6062">{00} found {01}!<!-- Player found item --></string>
+	<string id="5007">Gave {00} another {01}.\n({02} left)</string>
+	<string id="5008">Couldn't give {00} another\n{01}.</string>
+	<string id="5010">It couldn't be used. \n({00} clause)</string>
+	<string id="5046">Run from a Shiny?</string>
+	<string id="5047">Use this move on a Shiny?</string>
+	<string id="5064">Run from a Legendary?</string>
 
 	<!-- PvP short battle stats -->
 	<string id="5200">Turn #{00}</string>
@@ -52,7 +57,7 @@
 	<string id="271131087">\n<!-- take care --></string>
 
 	<!-- PC Text -->
-	<string id="2350">\n</string>
+	<string id="2350">personal computer.</string>
 
 	<!-- Kanto Pokecenter -->
 	<string id="1725571">\n</string>
@@ -128,58 +133,58 @@
 	<!-- Restore PP -->
 	<string id="8600">+PP {01}?</string>
 	<!-- Ocarina Text -->
-	<string id="16780155">\n</string>
+	<!--<string id="16780155">\n</string>-->
 	<!-- Hoenn - Cut -->
-	<string id="271124270">\n<!-- Cut --></string>
+	<string id="271124270">Cut?<!-- Cut --></string>
 	<string id="271124337">\n</string>
-	<string id="271124349">No Cut</string>
+	<string id="271124349">No Cut.</string>
 	<!-- Hoenn - Surf -->
-	<string id="271003606">\n<!-- Surf --></string>
+	<string id="271003606">Surf?<!-- Surf --></string>
 	<string id="271003661">\n</string>
 	<!-- Hoenn - Rock Smash -->
-	<string id="271124538">\n<!-- Rock smash --></string>
-	<string id="271124607">No Rocksmash</string>
+	<string id="271124538">Rock Smash?<!-- Rock smash --></string>
+	<string id="271124607">No Rock Smash.</string>
 	<!-- Hoenn - Strength -->
-	<string id="271124780">\n<!-- Strength --></string>
+	<string id="271124780">Strength?<!-- Strength --></string>
 	<string id="271124876">\n</string>
-	<string id="271124950">No Strength</string>
+	<string id="271124950">No Strength.</string>
 	<string id="271125014">\n</string>
 	<!-- Hoenn - Dive -->
-	<string id="271125418">No Dive</string>
-	<string id="271125480">DIVE?</string>
+	<string id="271125418">No Dive.</string>
+	<string id="271125480">Dive?</string>
 	<string id="271125530">\n</string>
-	<string id="271125544">No Dive</string>
-	<string id="271125614">DIVE?</string>
+	<string id="271125544">No Dive.</string>
+	<string id="271125614">Dive?</string>
 	<!-- Hoenn - Waterfall -->
-	<string id="271125134">No Waterfall</string>
-	<string id="271125187">\n<!-- Waterfall --></string>
+	<string id="271125134">No Waterfall.</string>
+	<string id="271125187">Waterfall?<!-- Waterfall --></string>
 	<string id="271125244">\n</string>
 
 	<!-- Kanto - Surf -->
-	<string id="1725806">\n<!-- Surf --></string>
+	<string id="1725806">Surf?<!-- Surf --></string>
 	<string id="1725861">\n</string>
 	<!-- Kanto - Strength -->
-	<string id="1827226">\n<!-- Strength --></string>
+	<string id="1827226">Strength?<!-- Strength --></string>
 	<string id="1827322">\n</string>
-	<string id="1827396">No Strength</string>
+	<string id="1827396">No Strength.</string>
 	<string id="1827460">\n</string>
 	<!-- Kanto - Waterfall -->
-	<string id="1827594">No Waterfall</string>
-	<string id="1827647">\n<!-- Waterfall --></string>
+	<string id="1827594">No Waterfall.</string>
+	<string id="1827647">Waterfall?<!-- Waterfall --></string>
 	<string id="1827704">\n</string>
 	<!-- Kanto - Dive -->
-	<string id="1827883">No Dive</string>
-	<string id="1827945">DIVE?</string>
+	<string id="1827883">No Dive.</string>
+	<string id="1827945">Dive?</string>
 	<string id="1827995">\n</string>
-	<string id="1828009">No Dive</string>
-	<string id="1828079">DIVE?</string>
+	<string id="1828009">No Dive.</string>
+	<string id="1828079">Dive?</string>
 	<!-- Kanto - Cut -->
-	<string id="1826708">\n<!-- Cut --></string>
+	<string id="1826708">Cut?<!-- Cut --></string>
 	<string id="1826775">\n</string>
 	<string id="1826787">\n</string>
 	<!-- Kanto - Rocksmash -->
-	<string id="1826973">\n<!-- Rock Smash --></string>
-	<string id="1827042">No Rocksmash</string>
+	<string id="1826973">Rock Smash?<!-- Rock Smash --></string>
+	<string id="1827042">No Rock Smash.</string>
 
 	<!-- Safari -->
 	<!-- Combat Menu -->
@@ -199,7 +204,7 @@
 	<string id="1670279">$500?</string>
 	<string id="1670407"> </string>
 	<string id="1670480"> </string>
-	<string id="1670528">Good Luck!</string>
+	<string id="1670528">Good luck!</string>
 	<string id="1670633">Goodbye!</string>
 	<string id="1670658">Not enough money!</string>
 	<string id="1670682">Leaving early?</string>
@@ -207,16 +212,16 @@
 	<string id="1670778">Good luck!</string>
 	<string id="1670789">Come again!</string>
 	<string id="1834011">Time's up!</string>
-	<string id="1834067">Out of Balls.</string>
+	<string id="1834067">Out of balls.</string>
 	<!-- Hoenn Safari Zone -->
 	<string id="271208308">$500?</string>
 	<string id="271208475"> </string>
 	<string id="271208502"> </string>
 	<string id="271208530"> </string>
 	<string id="271208559"> </string>
-	<string id="271207462">Time's Up!</string>
-	<string id="271207510">Out of Balls.</string>
-	<!-- trainer blocking door -->
+	<string id="271207462">Time's up!</string>
+	<string id="271207510">Out of balls.</string>
+	<!-- Trainer blocking door -->
 	<string id="271209131">Good luck!</string>
 	<string id="271208916">Leaving early?</string>
 	<string id="271209032">Okay.<!-- yes --></string>
@@ -228,10 +233,8 @@
 	<string id="310018">Berries</string>
 
 	<string id="16780309">Planted.</string>
-	<string id="16780310">planted..</string>
-	<string id="16780311">sprouted.</string>
-	<string id="16780312">seeds</string>
-	<string id="16780313">sapling</string>
+	<string id="16780310">Planted.</string>
+	<string id="16780311">Sprouted.</string>
 
 	<string id="16780315">Dry.</string>
 	<string id="16780316">Moist.</string>
@@ -245,7 +248,6 @@
 	<string id="16780328">Watered.</string>
 
 	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
-	<string id="16780330">You did not pick the {00}.</string>
 	<string id="16780331">{01} {02}.</string>
 
 	<string id="16780335">Dry.</string>
@@ -255,67 +257,62 @@
 	<string id="16780339">Almost flooded.</string>
 	<string id="16780340">Flooded.</string>
 
-	<string id="16780350">excellently</string>
-	<string id="16780351">beautifully</string>
-	<string id="16780352">nicely</string>
-	<string id="16780353">poorly</string>
-
 	<!-- GYM LEADERS -->
 	<!-- Kanto - Pewter City - Brock -->
 	<string id="1641684"> <!-- Challenge --></string>
 	<string id="1642063"> <!-- Victory --></string>
-	<string id="1642767">On Cooldown...</string>
+	<string id="1642767">On cooldown...</string>
 	<!-- Kanto - Cerulean City - Misty -->
 	<string id="1647087"> <!-- Challenge --></string>
 	<string id="1647661"> <!-- Victory --></string>
-	<string id="1647295">On Cooldown...</string>
+	<string id="1647295">On cooldown...</string>
 	<!-- Kanto - Vermilion City - Lt. Surge -->
 	<string id="1657764"> <!-- Challenge --></string>
 	<string id="1658371"> <!-- Victory --></string>
-	<string id="1657998">On Cooldown...</string>
+	<string id="1657998">On cooldown...</string>
 	<!-- Kanto - Celadon City - Erika -->
 	<string id="1667348"> <!-- Challenge --></string>
 	<string id="1667680"> <!-- Victory --></string>
-	<string id="1667768">On Cooldown...</string>
+	<string id="1667768">On cooldown...</string>
 	<!-- Kanto - Saffron City - Sabrina -->
 	<string id="1684796"> <!-- Challenge --></string>
 	<string id="1684994"> <!-- Victory --></string>
-	<string id="1685490">On Cooldown...</string>
+	<string id="1685490">On cooldown...</string>
 	<!-- Kanto - Fuchsia City - Koga -->
 	<string id="1671982"> <!-- Challenge --></string>
 	<string id="1672260"> <!-- Victory --></string>
-	<string id="1672321">On Cooldown...</string>
+	<string id="1672321">On cooldown...</string>
 	<!-- Kanto - Cinnabar City - Blaine -->
 	<string id="1676611"> <!-- Challenge --></string>
 	<string id="1676794"> <!-- Victory --></string>
-	<string id="1677085">On Cooldown...</string>
+	<string id="1677085">On cooldown...</string>
 	<!-- Kanto - Viridian City - Giovanni -->
 	<!-- TODO: Missing last time i was there.. -->
 
 	<!-- Hoenn - Rustboro City - Roxanne -->
 	<string id="270613551"> <!-- Challenge --></string>
 	<string id="270613753"> <!-- Victory --></string>
-	<string id="270612903">On Cooldown...</string>
+	<string id="270612903">On cooldown...</string>
 	<string id="270613907">Only one {STRING_0}?</string>
 	<!-- Hoenn - Dewford City - Brawly -->
 	<string id="270521028"> <!-- Challenge --></string>
 	<string id="270521191"> <!-- Victory --></string>
-	<string id="270520845">On Cooldown...</string>
+	<string id="270520845">On cooldown...</string>
 	<string id="270521310">Only one {STRING_0}?</string>
 	<!-- Hoenn - Mauville City - Wattson -->
 	<string id="270592423"> <!-- Challenge --></string>
 	<string id="270592578"> <!-- Victory --></string>
-	<string id="270592293">On Cooldown...</string>
+	<string id="270592293">On cooldown...</string>
 	<string id="270592765">Only one {STRING_0}?</string>
 	<!-- Hoenn - Lavaridge City - Flannery -->
 	<string id="270530049"> <!-- Challenge --></string>
 	<string id="270530207"> <!-- Victory --></string>
-	<string id="270529862">On Cooldown...</string>
+	<string id="270529862">On cooldown...</string>
 	<string id="270530398">Only one {STRING_0}?</string>
 	<!-- Hoenn - Petalburg City - Norman -->
 	<string id="270562466"> <!-- Challenge --></string>
 	<string id="270562766"> <!-- Victory --></string>
-	<string id="270562807">On Cooldown...</string>
+	<string id="270562807">On cooldown...</string>
 	<string id="270562890">Only one {STRING_0}?</string>
 	<!-- Petalburg Puzzle Doors -->
 	<string id="270561822">\n<!-- SPEED ROOM --></string>
@@ -329,17 +326,17 @@
 	<!-- Hoenn - Fortree City - Winona -->
 	<string id="270627072"> <!-- Challenge --></string>
 	<string id="270627302"> <!-- Victory --></string>
-	<string id="270626929">On Cooldown...</string>
+	<string id="270626929">On cooldown...</string>
 	<string id="270627474">Only one {STRING_0}?</string>
 	<!-- Hoenn - Mossdeep City - Tate & Liza -->
 	<string id="270671115"> <!-- Challenge --></string>
 	<string id="270671365"> <!-- Victory --></string>
-	<string id="270670621">On Cooldown...</string>
+	<string id="270670621">On cooldown...</string>
 	<string id="270671544">Only one {STRING_0}?</string>
 	<!-- Hoenn - Sootopolis City - Juan -->
 	<string id="270686544"> <!-- Challenge --></string>
 	<string id="270686766"> <!-- Victory --></string>
-	<string id="270686072">On Cooldown...</string>
+	<string id="270686072">On cooldown...</string>
 	<string id="270687048">Only one {STRING_0}?</string>
 
 	<!-- ELITE FOUR -->
@@ -380,19 +377,19 @@
 	<!-- Hoenn - Elite 4 - Sidney -->
 	<string id="270696359"> <!-- Challenge --></string>
 	<string id="270696610"> <!-- Victory --></string>
-	<string id="270696684">On Cooldown...</string>
+	<string id="270696684">On cooldown...</string>
 	<!-- Hoenn - Elite 4 - Phoebe -->
 	<string id="270696974"> <!-- Challenge --></string>
 	<string id="270697253"> <!-- Victory --></string>
-	<string id="270697283">On Cooldown..</string>
+	<string id="270697283">On cooldown..</string>
 	<!-- Hoenn - Elite 4 - Glacia -->
 	<string id="270697644"> <!-- Challenge --></string>
 	<string id="270697908"> <!-- Victory --></string>
-	<string id="270698048">On Cooldown..</string>
+	<string id="270698048">On cooldown..</string>
 	<!-- Hoenn - Elite 4 - Drake -->
 	<string id="270698302"> <!-- Challenge --></string>
 	<string id="270698645"> <!-- Victory --></string>
-	<string id="270698672">On Cooldown..</string>
+	<string id="270698672">On cooldown..</string>
 	<!-- Hoenn - Elite 4 - Wallace -->
 	<string id="270699596"> <!-- Challenge --></string>
 	<string id="270700204"> <!-- Victory --></string>

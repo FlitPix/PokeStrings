@@ -28,7 +28,7 @@
 	<string block_id="0" entry_id="6" table_id="135">Good luck!</string>
 	<string block_id="0" entry_id="7" table_id="135">Leaving early?</string>
 	<string block_id="0" entry_id="0" table_id="427">Time's up!</string>
-	<string block_id="0" entry_id="1" table_id="427">Out of Safari Balls!</string>
+	<string block_id="0" entry_id="1" table_id="427">Out of balls!</string>
 	<string block_id="0" entry_id="2" table_id="427">You're out of room for more Pokémon.</string>
 
 	<!-- Apricorn Trees -->
@@ -39,10 +39,10 @@
 	<string block_id="0" entry_id="4" table_id="23"> <!-- Placed in box --></string>
 
 	<!-- Apricorn Crafting -->
-    	<string block_id="0" entry_id="4" table_id="571">\n<!--You have Apricorns for me?--></string>
-    	<string block_id="0" entry_id="6" table_id="571">\n<!--Player declined to craft--></string>
-    	<string block_id="0" entry_id="8" table_id="571">\n<!--Kurt finished crafting--></string>
-    	<string block_id="0" entry_id="10" table_id="571">\n<!--Kurt admiring his work--></string>
+    	<!--<string block_id="0" entry_id="4" table_id="571">\n</string>-->
+    	<!--<string block_id="0" entry_id="6" table_id="571">\n</string>-->
+    	<!--<string block_id="0" entry_id="8" table_id="571">\n</string>-->
+    	<!--<string block_id="0" entry_id="10" table_id="571">\n</string>-->
 
 	<!-- HMs -->
 	<string block_id="0" entry_id="0" table_id="211">Cut?</string>
