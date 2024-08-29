@@ -6,15 +6,14 @@ This [PokéStrings](https://github.com/rudes/PokeStrings) fork is meant to speed
 
 ## Install
 
-**Disclaimer**: This pack does not create a new language option it uses the default English option.
+**Disclaimer**: This pack does not create a new language option; it uses the default English option.
 
-1. Set language in-game to English
-2. Close PokeMMO
-3. Remove any custom strings you have for English (en) from `...\PokeMMO\data\strings`
-4. Unzip the PokeStrings Folder
-5. Copy **ONLY** and **ALL** the XML files to your `...\PokeMMO\data\strings` folder
-	- yes even the placeholder one
-6. **MAC USERS** rename the file `zz_strings_en_PokeStrings.xml` to `strings-mac.xml`
+1. Set language in-game to English.
+2. Exit PokeMMO.
+3. Remove any custom strings you have for English (en) from `...\PokeMMO\data\strings`.
+4. Unzip the PokeStrings archive.
+5. Copy all of the XML files to `...\PokeMMO\data\strings`, including the placeholder file.
+6. **Mac only:** Rename the file `zz_strings_en_PokeStrings.xml` to `strings-mac.xml`.
 
 ## Credits
 
