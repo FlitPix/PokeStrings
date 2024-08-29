@@ -75,21 +75,20 @@
 	<!-- Cynthia -->
 	<!-- NOTE: Commented out until I first defeat them in-game. -->
 	<!--<string block_id="0" entry_id="1599" table_id="189"> </string>-->
-	<!-- Morimotto -->
+	<!-- Morimoto -->
 	<!--<string block_id="0" entry_id="1342" table_id="189"> </string>-->
 
 	<!-- ELITE FOUR -->
-	<!-- NOTE: Commented out until I first defeat them in-game. -->
 	<!-- Unova - Elite Four - Shauntal - Combat Text -->
-	<!--<string block_id="0" entry_id="1577" table_id="189"> </string>-->
+	<string block_id="0" entry_id="1577" table_id="189"> </string>
 	<!-- Unova - Elite Four - Marshal - Combat Text -->
-	<!--<string block_id="0" entry_id="1585" table_id="189"> </string>-->
+	<string block_id="0" entry_id="1585" table_id="189"> </string>
 	<!-- Unova - Elite Four - Grimsley - Combat Text -->
-	<!--<string block_id="0" entry_id="1581" table_id="189"> </string>-->
+	<string block_id="0" entry_id="1581" table_id="189"> </string>
 	<!-- Unova - Elite Four - Caitlin - Combat Text -->
-	<!--<string block_id="0" entry_id="1589" table_id="189"> </string>-->
+	<string block_id="0" entry_id="1589" table_id="189"> </string>
 	<!-- Unova - Elite Four - Alder - Combat Text -->
-	<!--<string block_id="0" entry_id="1761" table_id="189"> </string>-->
+	<string block_id="0" entry_id="1761" table_id="189"> </string>
 
 	<!-- GYM LEADERS -->
 	<!-- NOTE: Commented out until I first defeat them in-game. -->
@@ -108,44 +107,43 @@
 	<!-- Unova - Driftveil City - Clay - Combat Text -->
 	<string block_id="0" entry_id="165" table_id="189"> <!-- Combat Victory --></string>
 	<!-- Unova - Mistralton City - Skyla - Combat Text -->
-	<!--<string block_id="0" entry_id="168" table_id="189"> </string>-->
+	<string block_id="0" entry_id="168" table_id="189"> <!-- Combat Victory --></string>
 	<!-- Unova - Icirrus City - Brycen - Combat Text -->
-	<!--<string block_id="0" entry_id="420" table_id="189"> </string>-->
+	<string block_id="0" entry_id="420" table_id="189"> <!-- Combat Victory --></string>
 	<!-- Unova - Opelucid City - Iris - Combat Text -->
-	<!--<string block_id="0" entry_id="423" table_id="189"> </string>-->
+	<string block_id="0" entry_id="423" table_id="189"> <!-- Combat Victory --></string>
 
 	<!-- Unova "trainer re-run" Trainers -->
-	<!-- NOTE: Commented out until I first clear each location. -->
 	<!-- Unova - Shopping Mall - Lady Isabel - $4080 -->
-	<!--<string block_id="0" entry_id="467" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="468" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="469" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="467" table_id="189"> </string>
+	<string block_id="0" entry_id="468" table_id="189"> </string>
+	<string block_id="0" entry_id="469" table_id="189">On cooldown...</string>
 	<!-- Unova - Shopping Mall - Rich Boy - $4080 -->
-	<!--<string block_id="0" entry_id="464" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="465" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="466" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="464" table_id="189"> </string>
+	<string block_id="0" entry_id="465" table_id="189"> </string>
+	<string block_id="0" entry_id="466" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 10 - Ace Trainer Johan - $2,968 -->
-	<!--<string block_id="0" entry_id="321" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="322" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="323" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="321" table_id="189"> </string>
+	<string block_id="0" entry_id="322" table_id="189"> </string>
+	<string block_id="0" entry_id="323" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 10 - Veteran Karla - $3,300 -->
-	<!--<string block_id="0" entry_id="540" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="541" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="542" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="540" table_id="189"> </string>
+	<string block_id="0" entry_id="541" table_id="189"> </string>
+	<string block_id="0" entry_id="542" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 10 - Ace Trainer Cheyenne - $2,968 -->
-	<!--<string block_id="0" entry_id="333" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="334" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="335" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="333" table_id="189"> </string>
+	<string block_id="0" entry_id="334" table_id="189"> </string>
+	<string block_id="0" entry_id="335" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 10 - Veteran Chester - $3,300 -->
-	<!--<string block_id="0" entry_id="537" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="538" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="539" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="537" table_id="189"> </string>
+	<string block_id="0" entry_id="538" table_id="189"> </string>
+	<string block_id="0" entry_id="539" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 13 - Socialite Marian - $5,400 -->
-	<!--<string block_id="0" entry_id="1483" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="1484" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="1485" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="1483" table_id="189"> </string>
+	<string block_id="0" entry_id="1484" table_id="189"> </string>
+	<string block_id="0" entry_id="1485" table_id="189">On cooldown...</string>
 	<!-- Unova - Route 13 - Gentleman Yan - $5,400 -->
-	<!--<string block_id="0" entry_id="1477" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="1478" table_id="189"> </string>-->
-	<!--<string block_id="0" entry_id="1479" table_id="189">On cooldown...</string>-->
+	<string block_id="0" entry_id="1477" table_id="189"> </string>
+	<string block_id="0" entry_id="1478" table_id="189"> </string>
+	<string block_id="0" entry_id="1479" table_id="189">On cooldown...</string>
 </ds_strings_archive>

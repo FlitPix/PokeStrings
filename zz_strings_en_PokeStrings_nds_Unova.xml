@@ -111,46 +111,46 @@
 	<string block_id="0" entry_id="0" table_id="102"> <!-- Challenge --></string>
 	<string block_id="0" entry_id="6" table_id="102">On cooldown...</string>
 	<!-- Unova - Mistralton City - Skyla -->
-	<!--<string block_id="0" entry_id="0" table_id="113"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="113">On cooldown...</string>-->
+	<string block_id="0" entry_id="0" table_id="113"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="6" table_id="113">On cooldown...</string>
 	<!-- Unova - Icirrus City - Brycen -->
-	<!--<string block_id="0" entry_id="0" table_id="119"> </string>-->
-	<!--<string block_id="0" entry_id="7" table_id="119">On cooldown...</string>-->
+	<string block_id="0" entry_id="0" table_id="119"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="7" table_id="119">On cooldown...</string>
 	<!-- Unova - Opelucid City - Iris -->
-	<!--<string block_id="0" entry_id="0" table_id="126"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="126">On cooldown...</string>-->
+	<string block_id="0" entry_id="0" table_id="126"> </string>
+	<string block_id="0" entry_id="6" table_id="126">On cooldown...</string>
 
 	<!-- ELITE FOUR -->
 	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<!-- Unova - Elite Four - Warden -->
-	<!--<string block_id="0" entry_id="4" table_id="141">Good luck!</string>-->
+	<string block_id="0" entry_id="4" table_id="141">Good luck!</string>
 	<!-- Unova - Elite Four - Pillar/Door -->
-	<!--<string block_id="0" entry_id="0" table_id="142">SW: Shauntal\nNW: Grimsley\nNE: Caitlin\nSE: Marshal</string>-->
-	<!--<string block_id="0" entry_id="0" table_id="143">Win or lose to leave.</string>-->
+	<string block_id="0" entry_id="0" table_id="142">SW: Shauntal\nNW: Grimsley\nNE: Caitlin\nSE: Marshal</string>
+	<string block_id="0" entry_id="0" table_id="143">Win or lose to leave.</string>
 	<!-- Unova - Elite Four - Shauntal - SW -->
-	<!--<string block_id="0" entry_id="4" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="5" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="7" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="8" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="9" table_id="145"> </string>-->
-	<!--<string block_id="0" entry_id="10" table_id="145">On cooldown...</string>-->
-	<!--<string block_id="0" entry_id="11" table_id="145">On cooldown...</string>-->
+	<string block_id="0" entry_id="4" table_id="145"> </string>
+	<string block_id="0" entry_id="5" table_id="145"> </string>
+	<string block_id="0" entry_id="6" table_id="145"> </string>
+	<string block_id="0" entry_id="7" table_id="145"> </string>
+	<string block_id="0" entry_id="8" table_id="145"> </string>
+	<string block_id="0" entry_id="9" table_id="145"> </string>
+	<string block_id="0" entry_id="10" table_id="145">On cooldown...</string>
+	<string block_id="0" entry_id="11" table_id="145">On cooldown...</string>
 	<!-- Unova - Elite Four - Grimsley - NW -->
-	<!--<string block_id="0" entry_id="4" table_id="146"> </string>-->
-	<!--<string block_id="0" entry_id="5" table_id="146"> </string>-->
-	<!--<string block_id="0" entry_id="7" table_id="146"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="146">On cooldown...</string>-->
+	<string block_id="0" entry_id="4" table_id="146"> </string>
+	<string block_id="0" entry_id="5" table_id="146"> </string>
+	<string block_id="0" entry_id="7" table_id="146"> </string>
+	<string block_id="0" entry_id="6" table_id="146">On cooldown...</string>
 	<!-- Unova - Elite Four - Caitlin - NE -->
-	<!--<string block_id="0" entry_id="4" table_id="148"> </string>-->
-	<!--<string block_id="0" entry_id="5" table_id="148"> </string>-->
-	<!--<string block_id="0" entry_id="7" table_id="148"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="148">On cooldown...</string>-->
+	<string block_id="0" entry_id="4" table_id="148"> </string>
+	<string block_id="0" entry_id="5" table_id="148"> </string>
+	<string block_id="0" entry_id="7" table_id="148"> </string>
+	<string block_id="0" entry_id="6" table_id="148">On cooldown...</string>
 	<!-- Unova - Elite Four - Marshal - SE -->
-	<!--<string block_id="0" entry_id="4" table_id="147"> </string>-->
-	<!--<string block_id="0" entry_id="5" table_id="147"> </string>-->
-	<!--<string block_id="0" entry_id="7" table_id="147"> </string>-->
-	<!--<string block_id="0" entry_id="6" table_id="147">On cooldown...</string>-->
+	<string block_id="0" entry_id="4" table_id="147"> </string>
+	<string block_id="0" entry_id="5" table_id="147"> </string>
+	<string block_id="0" entry_id="7" table_id="147"> </string>
+	<string block_id="0" entry_id="6" table_id="147">On cooldown...</string>
 	<!-- Unova - Elite Four - Alder -->
 	<!--<string block_id="0" entry_id="23" table_id="149"> </string>-->
 	<!--<string block_id="0" entry_id="24" table_id="149"> </string>-->
